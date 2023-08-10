@@ -52,10 +52,10 @@
 - char		*ft_substr(char const *s, unsigned int start, size_t len);
 
 ### to
-- int		ft_atoi(const char *str);
-- char		*ft_itoa(int n);
-- int		ft_tolower(int c);
-- int		ft_toupper(int c);
+- long long int		ft_atoi(const char *str);
+- char				*ft_itoa(int n);
+- int				ft_tolower(int c);
+- int				ft_toupper(int c);
 
 ### lst
 ```
