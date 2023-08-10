@@ -6,7 +6,7 @@
 /*   By: cdarrell <cdarrell@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/04 16:59:46 by cdarrell          #+#    #+#             */
-/*   Updated: 2023/06/18 14:40:26 by cdarrell         ###   ########.fr       */
+/*   Updated: 2023/08/10 22:49:26 by cdarrell         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -72,7 +72,7 @@ char	*ft_substr(char const *s, unsigned int start, size_t len);
 
 //to
 int		ft_atoi(const char *str);
-char	*ft_itoa(int n);
+char	*ft_itoa(long long int n);
 int		ft_tolower(int c);
 int		ft_toupper(int c);
 
